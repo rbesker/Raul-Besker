@@ -11,7 +11,7 @@ Across $3M+ ARR portfolios in the US and LATAM, I've consistently boosted gross 
 I use AI tools hands-on as part of how I work, not just as a curiosity:
 
 - ChatGPT, Claude, and Claude Code — for research, writing, automation, and building software
-- Built be2done.com — a B2B supplier-enterprise matching platform, co-founded and built using AI-assisted development
+- I created Be2Done.com — a B2B supplier-enterprise matching platform, built using AI-assisted development
 - Also co-founder of BSKR Brands, a Florida-based importer/distributor of Brazilian waterproofing and building products (est. 1999), where I use AI tools for marketing automation, inventory systems, and product documentation
 
 ## Experience
@@ -38,5 +38,6 @@ English, Portuguese, Spanish
 ## Let's connect
 
 - Resume & full portfolio: raulbesker.com
+- Created: be2done.com
 - LinkedIn: linkedin.com/in/raul-besker
 - Email: rbesker@hotmail.com
